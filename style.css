@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap");
+
+:root {
+--cor-principal:rgba(34, 224, 238, 0.593) ;
+--cor-secundaria:rgba(238, 218, 34, 0.533) ;
+--cor-destaque:rgba(119, 57, 185, 0.503) ;
+}
+
+body {
+    font-family: ;
+}
