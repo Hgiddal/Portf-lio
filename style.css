@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap");
 
 :root {
---cor-principal:rgba(34, 224, 238, 0.593) ;
---cor-secundaria:rgba(14, 65, 103, 0.533) ;
---cor-destaque:rgba(119, 57, 185, 0.503) ;
+--cor-principal:rgba(33, 181, 192, 0.592) ;
+--cor-secundaria:hwb(206 5% 60% / 0.533) ;
+--cor-destaque:#7739b980 ;
 }
 
 body {
-    font-family: 'Chakra Petch, sans-serif';
+    font-family: 'WDXL Lubrifont TC, sans-serif';
 }
 
 h1, h2, h5 {
