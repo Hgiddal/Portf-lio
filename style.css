@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap");
 
 :root {
---cor-principal:rgba(33, 181, 192, 0.592) ;
---cor-secundaria:hwb(206 5% 60% / 0.533) ;
+--cor-principal:rgba(208, 12, 12, 0.592) ;
+--cor-secundaria:hwb(119 8% 19% / 0.533) ;
 --cor-destaque:#7739b980 ;
 }
 
